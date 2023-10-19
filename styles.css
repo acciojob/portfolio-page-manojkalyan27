@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+img{
+	image-orientation: from-image;
+}
+h1{
+    border: 1px dotted red;
+}
+a{
+    text-decoration: none;
+}
